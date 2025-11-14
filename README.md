@@ -1,2 +1,2 @@
 # TransactShield
-This is a Machine Learning based online payments fraud detector
+This is a Decision Tree Classifier based machine learning model which can detect fraudlent payments.
